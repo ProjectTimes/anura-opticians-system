@@ -26,7 +26,7 @@ import './App.css'
         </p>
       </div>
       <p className="read-the-docs">
-         learn more 
+         
       </p>
     </>
 
