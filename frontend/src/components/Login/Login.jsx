@@ -1,20 +1,21 @@
 import React from 'react';
-import "../../App.css"
+
 
 const Login = () => {
   return (
-    <div>
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
+
+    <div className="flex flex-col items-center justify-center min-h-screen ">
       <div class="w-full max-w-md">
         
-        <div class="bg-[#FFF3EC] rounded-lg shadow-md px-16 pt-12 pb-8 mb-4">
 
+        <div class="bg-[#FFF3EC] rounded-lg shadow-md px-16 pt-12 pb-8 mb-4">
+        
 
           <form class="bg-[#E5783A] rounded-tl-3xl space-y-8  rounded-br-3xl shadow-md px-8 pt-6 pb-8 mb-4 mt-3" >
             <div className=' sm:mx-auto sm:w-full sm:max-w-md'>
-              <h2 className='mt-6 text-center text-3xl font-extrabold text-gray-900'>
+              <h3 className='mt-6 text-center text-3xl font-extrabold text-gray-900'>
                 Employee
-              </h2>
+              </h3>
 
             </div>
             <div class="mb-4">
@@ -35,13 +36,13 @@ const Login = () => {
               </a>
             </div>
           </form>
-          {/* <p class="text-center text-gray-500 text-xs">
-            &copy;2020 Acme Corp. All rights reserved.
-          </p> */}
+          <p class="text-center text-gray-500 text-xs">
+            &copy;2024  All Rights Reserved.
+          </p>
         </div>
       </div>
     </div>
-  </div>
+
 
   )
 }
