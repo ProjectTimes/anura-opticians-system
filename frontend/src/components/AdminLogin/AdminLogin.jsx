@@ -29,7 +29,7 @@ const AdminLogin = () => {
                 Confirm
               </button>
 
-              <a class="inline-block align-baseline font-bold text-sm text-black hover:text-[#E5783A]" href="#">
+              <a class="inline-block align-baseline font-bold text-sm text-black hover:text-[#c6a18b]" href="#">
                 Forgot Password?
               </a>
             </div>
